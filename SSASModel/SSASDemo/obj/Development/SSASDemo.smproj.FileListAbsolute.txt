@@ -1,0 +1,8 @@
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\bin\Model.asdatabase
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\bin\Model.deploymenttargets
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\bin\Model.deploymentoptions
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\obj\Development\SSASDemo.smproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\obj\Development\SSASDemo.smproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\obj\Development\Model.asdatabase
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\obj\Development\Model.deploymentoptions
+C:\Users\sandu\source\repos\SSASDemo\SSASDemo\obj\Development\Model.deploymenttargets
